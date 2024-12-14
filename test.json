@@ -1,0 +1,301 @@
+ [
+  {
+    "name": "Mali",
+    "nameTranslations": {
+      "en": "Mali",
+      "fr": "Mali",
+      "ar": "????"
+    },
+    "flag": "????",
+    "code": "ML",
+    "dialCode": "223",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "Bénin",
+    "nameTranslations": {
+      "en": "Benin",
+      "fr": "Bénin",
+      "ar": "????"
+    },
+    "flag": "????",
+    "code": "BJ",
+    "dialCode": "229",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "Burkina Faso",
+    "nameTranslations": {
+      "en": "Burkina Faso",
+      "fr": "Burkina Faso",
+      "ar": "??????? ????"
+    },
+    "flag": "????",
+    "code": "BF",
+    "dialCode": "226",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "nameTranslations": {
+      "en": "Ivory Coast",
+      "fr": "Côte d'Ivoire",
+      "ar": "???? ?????"
+    },
+    "flag": "????",
+    "code": "CI",
+    "dialCode": "225",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "Cap-Vert",
+    "nameTranslations": {
+      "en": "Cape Verde",
+      "fr": "Cap-Vert",
+      "ar": "????? ??????"
+    },
+    "flag": "????",
+    "code": "CV",
+    "dialCode": "238",
+    "minLength": 7,
+    "maxLength": 7
+  },
+  {
+    "name": "Gambie",
+    "nameTranslations": {
+      "en": "Gambia",
+      "fr": "Gambie",
+      "ar": "??????"
+    },
+    "flag": "????",
+    "code": "GM",
+    "dialCode": "220",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "Ghana",
+    "nameTranslations": {
+      "en": "Ghana",
+      "fr": "Ghana",
+      "ar": "????"
+    },
+    "flag": "????",
+    "code": "GH",
+    "dialCode": "233",
+    "minLength": 9,
+    "maxLength": 9
+  },
+  {
+    "name": "Guinée",
+    "nameTranslations": {
+      "en": "Guinea",
+      "fr": "Guinée",
+      "ar": "?????"
+    },
+    "flag": "????",
+    "code": "GN",
+    "dialCode": "224",
+    "minLength": 9,
+    "maxLength": 9
+  },
+  {
+    "name": "Guinée-Bissau",
+    "nameTranslations": {
+      "en": "Guinea-Bissau",
+      "fr": "Guinée-Bissau",
+      "ar": "????? ?????"
+    },
+    "flag": "????",
+    "code": "GW",
+    "dialCode": "245",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "Liberia",
+    "nameTranslations": {
+      "en": "Liberia",
+      "fr": "Liberia",
+      "ar": "???????"
+    },
+    "flag": "????",
+    "code": "LR",
+    "dialCode": "231",
+    "minLength": 7,
+    "maxLength": 7
+  },
+  {
+    "name": "Mauritanie",
+    "nameTranslations": {
+      "en": "Mauritania",
+      "fr": "Mauritanie",
+      "ar": "?????????"
+    },
+    "flag": "????",
+    "code": "MR",
+    "dialCode": "222",
+    "minLength": 9,
+    "maxLength": 9
+  },
+  {
+    "name": "Niger",
+    "nameTranslations": {
+      "en": "Niger",
+      "fr": "Niger",
+      "ar": "??????"
+    },
+    "flag": "????",
+    "code": "NE",
+    "dialCode": "227",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "Nigeria",
+    "nameTranslations": {
+      "en": "Nigeria",
+      "fr": "Nigéria",
+      "ar": "???????"
+    },
+    "flag": "????",
+    "code": "NG",
+    "dialCode": "234",
+    "minLength": 10,
+    "maxLength": 10
+  },
+  {
+    "name": "Sénégal",
+    "nameTranslations": {
+      "en": "Senegal",
+      "fr": "Sénégal",
+      "ar": "???????"
+    },
+    "flag": "????",
+    "code": "SN",
+    "dialCode": "221",
+    "minLength": 9,
+    "maxLength": 9
+  },
+  {
+    "name": "Sierra Leone",
+    "nameTranslations": {
+      "en": "Sierra Leone",
+      "fr": "Sierra Leone",
+      "ar": "???? ????"
+    },
+    "flag": "????",
+    "code": "SL",
+    "dialCode": "232",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "Togo",
+    "nameTranslations": {
+      "en": "Togo",
+      "fr": "Togo",
+      "ar": "????"
+    },
+    "flag": "????",
+    "code": "TG",
+    "dialCode": "228",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "Cameroun",
+    "nameTranslations": {
+      "en": "Cameroon",
+      "fr": "Cameroun",
+      "ar": "?????????"
+    },
+    "flag": "????",
+    "code": "CM",
+    "dialCode": "237",
+    "minLength": 9,
+    "maxLength": 9
+  },
+  {
+    "name": "République Centrafricaine",
+    "nameTranslations": {
+      "en": "Central African Republic",
+      "fr": "République Centrafricaine",
+      "ar": "??????? ??????? ??????"
+    },
+    "flag": "????",
+    "code": "CF",
+    "dialCode": "236",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "Congo Brazzaville",
+    "nameTranslations": {
+      "en": "Republic of the Congo",
+      "fr": "Congo Brazzaville",
+      "ar": "??????? ???????"
+    },
+    "flag": "????",
+    "code": "CG",
+    "dialCode": "242",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "République Démocratique du Congo",
+    "nameTranslations": {
+      "en": "Democratic Republic of the Congo",
+      "fr": "République Démocratique du Congo",
+      "ar": "??????? ??????? ???????????"
+    },
+    "flag": "????",
+    "code": "CD",
+    "dialCode": "243",
+    "minLength": 9,
+    "maxLength": 9
+  },
+  {
+    "name": "Gabon",
+    "nameTranslations": {
+      "en": "Gabon",
+      "fr": "Gabon",
+      "ar": "???????"
+    },
+    "flag": "????",
+    "code": "GA",
+    "dialCode": "241",
+    "minLength": 8,
+    "maxLength": 8
+  },
+  {
+    "name": "Guinée équatoriale",
+    "nameTranslations": {
+      "en": "Equatorial Guinea",
+      "fr": "Guinée équatoriale",
+      "ar": "????? ??????????"
+    },
+    "flag": "????",
+    "code": "GQ",
+    "dialCode": "240",
+    "minLength": 9,
+    "maxLength": 9
+  },
+  {
+    "name": "Éthiopie",
+    "nameTranslations": {
+      "en": "Ethiopia",
+      "fr": "Éthiopie",
+      "ar": "???????"
+    },
+    "flag": "????",
+    "code": "ET",
+    "dialCode": "251",
+    "minLength": 9,
+    "maxLength": 9
+  }
+]
